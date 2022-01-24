@@ -1,0 +1,14 @@
+name: projetshiny
+title: projetshiny
+username:
+account: tina-2021
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5024264
+bundleId: 5202748
+url: https://tina-2021.shinyapps.io/projetshiny/
+when: 1635857953.93304
+lastSyncTime: 1635857953.93304
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData
